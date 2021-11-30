@@ -1,0 +1,84 @@
+{
+  "main": {
+    "id": "3856ef712a3683c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "48cd55b8bbb0532d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/blog/gdrive-unli.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0f8e3cf8eec20a1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fc6cf17e79700787",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "477e214859a3f996",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9e33a4d044f6d99d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0b2dd7c24203a0ab",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/blog/gdrive-unli.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "48cd55b8bbb0532d",
+  "lastOpenFiles": [
+    "content/blog/gdrive-unli.md",
+    "content/blog/_index.md",
+    "content/author/Made-Wiguna.md",
+    "content/blog/post-1.md",
+    "content/author/lubana-era.md",
+    "archetypes/default.md",
+    "Untitled.md"
+  ]
+}
